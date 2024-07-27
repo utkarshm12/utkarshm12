@@ -4,12 +4,11 @@
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&color=FFC300&color=DAF7A6&color=33FF57&color=3357FF&center=true&width=435&lines=Welcome+to+My+GitHub+Profile" alt="Typing SVG" />
 </a>
+<!--   - 👨‍💻 To Know more about me [portfolio](https://portfolio-sooty-five-24.vercel.app) -->
 </p>
 
 
 - 🌱 I’m currently learning ReactJS
-
-- 👨‍💻 To Know more about me [portfolio](https://portfolio-sooty-five-24.vercel.app)
 
 - 💬 Ask me about **competitive programming**
 
