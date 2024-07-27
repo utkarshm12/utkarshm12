@@ -1,6 +1,5 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning ReactJS
-- 🤔 I’m looking for help with Data Science
-- 💬 Ask me about Problem Solving
+- 💬 Ask me about Competitive Programming
 - 📫 Reach me via [mail](mailto:utkarshmandloi12065@gmail.com)
