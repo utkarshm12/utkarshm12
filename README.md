@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&color=FFC300&color=DAF7A6&color=33FF57&color=3357FF&center=true&width=435&lines=Welcome+to+My+GitHub+Profile" alt="Typing SVG" />
 </a>
-  - 👨‍💻 To Know more about me [portfolio](https://utkarshm12.vercel.app)
+<!--   - 👨‍💻 To Know more about me [portfolio](https://utkarshm12.vercel.app) -->
 </p>
 
 
@@ -14,8 +14,8 @@
 <a href="https://linkedin.com/in/utkarshmi12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarshmandloi12" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/utkarsh1206" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="utkarsh1265" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/utkarsh1265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="utkarsh1265" height="30" width="40" /></a>
-  <a href="mailto:utkarshmandloi12065@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="yourgmail@gmail.com" height="30" width="40" /></a>
-</p>
+ <a href="mailto:utkarshmandloi12065@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/new-post.png" alt="utkarshmandloi12@gmail.com" height="30" width="40" /></a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
