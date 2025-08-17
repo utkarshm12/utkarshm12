@@ -4,21 +4,17 @@
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&color=FFC300&color=DAF7A6&color=33FF57&color=3357FF&center=true&width=435&lines=Welcome+to+My+GitHub+Profile" alt="Typing SVG" />
 </a>
-<!--   - 👨‍💻 To Know more about me [portfolio](https://portfolio-sooty-five-24.vercel.app) -->
+  - 👨‍💻 To Know more about me [portfolio](https://utkarshm12.vercel.app)
 </p>
 
 
-- 🌱 I’m currently learning ReactJS
-
-- 💬 Ask me about **competitive programming**
-
-- 📫 How to reach me **[mail](mailto:utkarshmandloi12065@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/utkarshmandloi12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarshmandloi12" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/utkarshmi12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarshmandloi12" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/utkarsh1206" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="utkarsh1265" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/utkarsh1265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="utkarsh1265" height="30" width="40" /></a>
+  <a href="mailto:utkarshmandloi12065@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="yourgmail@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
